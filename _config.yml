@@ -7,5 +7,5 @@ navigation:
     url: /
   - title: Repository
     url: https://github.com/epfl-ada/ada-2023-project-beeradaventure46
-  - title: Exemple
-    url: exemple
+  - title: Example
+    url: example
