@@ -1,6 +1,3 @@
----
-layout: default
----
 
 
 # Bottles, Cans, or Drafts: Pouring Over the Data to Decode the Perfect Sip
