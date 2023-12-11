@@ -9,3 +9,5 @@ navigation:
     url: https://github.com/epfl-ada/ada-2023-project-beeradaventure46
   - title: Example
     url: example
+  - title: Dataset
+    url: dataset
