@@ -5,5 +5,5 @@ show_downloads: True
 navigation:
   - title: Home
     url: /
-  - title: Example
-    url: example
+  - title: Repository
+    url: https://github.com/epfl-ada/ada-2023-project-beeradaventure46
